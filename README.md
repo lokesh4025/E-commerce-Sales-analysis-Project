@@ -1,1 +1,1 @@
-![E-Commerce Sales Analysis](./your-thumbnail-image.png)
+E Commerce Project
